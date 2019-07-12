@@ -1,0 +1,11 @@
+[package]
+name = "include_str_rs_file_mre"
+version = "0.1.0"
+authors = ["Mason Fischer <mason@kissr.co>"]
+description = "An MRE of a include_str! nested directory bug"
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
